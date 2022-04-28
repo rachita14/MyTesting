@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-28T12:12:51 CEST" name="Suite" finished-at="2022-04-28T12:12:56 CEST" duration-ms="5764">
+  <suite started-at="2022-04-28T12:38:23 CEST" name="Suite" finished-at="2022-04-28T12:38:26 CEST" duration-ms="3332">
     <groups>
     </groups>
-    <test started-at="2022-04-28T12:12:51 CEST" name="Test" finished-at="2022-04-28T12:12:56 CEST" duration-ms="5764">
+    <test started-at="2022-04-28T12:38:23 CEST" name="Test" finished-at="2022-04-28T12:38:26 CEST" duration-ms="3332">
       <class name="testcase.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.LoginTest@6fdbe764]" started-at="2022-04-28T12:12:51 CEST" name="setUp" finished-at="2022-04-28T12:12:56 CEST" duration-ms="5699" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.LoginTest@6fdbe764]" started-at="2022-04-28T12:38:23 CEST" name="setUp" finished-at="2022-04-28T12:38:26 CEST" duration-ms="3249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="basicPanel()[pri:0, instance:testcase.LoginTest@6fdbe764]" started-at="2022-04-28T12:12:56 CEST" name="basicPanel" description="Open local URL" finished-at="2022-04-28T12:12:56 CEST" duration-ms="9" status="PASS">
+        <test-method signature="basicPanel()[pri:0, instance:testcase.LoginTest@6fdbe764]" started-at="2022-04-28T12:38:26 CEST" name="basicPanel" description="Open local URL" finished-at="2022-04-28T12:38:26 CEST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basicPanel -->
