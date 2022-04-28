@@ -2,6 +2,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>MyTesting.Automation</groupId>
 	<artifactId>MyTestingAutomation</artifactId>
+	<properties>
+		<maven.compiler.source>14</maven.compiler.source>
+		<maven.compiler.target>14</maven.compiler.target>
+	</properties>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<dependencies>
